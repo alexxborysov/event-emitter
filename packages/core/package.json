@@ -1,0 +1,16 @@
+{
+  "name": "allex.event-emitter",
+  "author": "alexx.borysov",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "./dist/event-emitter.cjs",
+  "module": "./dist/event-emitter.js",
+  "types": "./dist/event-emitter.d.ts",
+  "files": [
+    "./dist/event-emitter.js",
+    "./dist/event-emitter.cjs",
+    "./dist/event-emitter.d.ts",
+    "./README.md",
+    "./LICENSE"
+  ]
+}
